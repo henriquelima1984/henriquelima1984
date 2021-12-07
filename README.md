@@ -1,22 +1,37 @@
-## Olá, Eu sou Henrique C. Lima
+# Welcome to My Github!
 
-- 🔭 Em busca da primeira vaga back-end!
-- 🌱 Estudando Python
+Meu nome é Henrique eu sou de Fortaleza - Ceará
+<br>
+<br>
+Sou apaixonado por tecnologia e estou sempre em busca de crescimento.
+<br>
+<br>
 
-<div>
-  <a href="https://github.com/henriquelima1984">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=henriquelima1984&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquelima1984&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+Meu Objetivo é atuar na área de Back-end em Desenvolvimento Web, e resolver problemas utilizando a linguagem Python e o Framework Django.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Henrique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<div>
-  
-##
+### <strong>⌨ Linguagem</strong> ️
 
-<div>
-    <a href="https://instagram.com/jake_muller100" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "henriquecorreia100@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/henrique-correia-934663221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### <strong>🛠️ Ferramentas</strong>
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white)
+
+### <strong>🖥️ IDE</strong>
+
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+
+### <strong>‍💻 SO</strong>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### ✉️ Contato
+
+<a target='_blank' href='henriquecorreia100@gmail.com'>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a target='_blank' href='https://t.me/Henrique_Lima_Python'>![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a target='_blank' href='https://www.linkedin.com/in/henrique-correia-934663221/'>![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>

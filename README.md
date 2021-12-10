@@ -34,4 +34,4 @@ Meu Objetivo é atuar na área de Back-end em Desenvolvimento Web, e resolver pr
 
 <a target='_blank' href='henriquecorreia100@gmail.com'>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a target='_blank' href='https://t.me/Henrique_Lima_Python'>![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-<a target='_blank' href='https://www.linkedin.com/in/henrique-correia-934663221/'>![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a target='_blank' href='https://www.linkedin.com/in/henrique-lima-python/'>![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>

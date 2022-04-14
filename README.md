@@ -7,7 +7,7 @@ Sou apaixonado por tecnologia e estou sempre em busca de crescimento.
 <br>
 <br>
 
-Meu objetivo é atuar na área de desenvolvimento web.
+Meu objetivo é me tornar um perito na área de desenvolvimento web.
 
 ### <strong>Languages</strong> ️
 

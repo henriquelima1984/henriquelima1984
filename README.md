@@ -1,13 +1,11 @@
 # Welcome to My Github!
 
-Meu nome é Henrique eu sou de Fortaleza - Ceará
+My name is Henrique
 <br>
 <br>
-Sou apaixonado por tecnologia e estou sempre em busca de crescimento.
+I'm a professional in web development
 <br>
 <br>
-
-Meu objetivo é me tornar um perito na área de desenvolvimento web.
 
 ### <strong>Languages</strong> ️
 

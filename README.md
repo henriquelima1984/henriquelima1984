@@ -3,7 +3,7 @@
 My name is Henrique
 <br>
 <br>
-Engenheiro Cloud em eterna evolução, especialista em python.
+Cloud Engineer em eterna evolução.
 <br>
 <br>
 

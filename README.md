@@ -4,7 +4,8 @@ My name is Henrique
 <br>
 <br>
 Cloud Solutions Architect eternally evolving.
-Linux Specialty
+<br>
+Linux Specialty.
 <br>
 <br>
 
